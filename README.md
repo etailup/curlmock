@@ -1,5 +1,7 @@
 # curlmock
 
+[![CI](https://github.com/etailup/curlmock/actions/workflows/ci.yml/badge.svg)](https://github.com/etailup/curlmock/actions/workflows/ci.yml)
+
 Start a local mock API from a cURL command in one line. No config files, no Postman export — paste the curl, get a server.
 
 ## Install
